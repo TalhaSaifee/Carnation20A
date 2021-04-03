@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16515" started-at="2021-03-15T23:06:10 IST" finished-at="2021-03-15T23:06:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16515" started-at="2021-03-15T23:06:10 IST" finished-at="2021-03-15T23:06:27 IST">
+      <class name="com.testingShashtra1.RegressionTest">
+        <test-method status="PASS" signature="tc_02()[pri:0, instance:com.testingShashtra1.RegressionTest@1e800aaa]" name="tc_02" duration-ms="16474" started-at="2021-03-15T23:06:10 IST" finished-at="2021-03-15T23:06:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02 -->
+      </class> <!-- com.testingShashtra1.RegressionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
